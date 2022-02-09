@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 081]允许重复选择元素的组合.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/4sjJUc.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FourSjJUc.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FourSjJUc.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/AdditiveNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/AdditiveNumber.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/AdditiveNumber.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CalculateMoneyInLeetcodeBank.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CalculateMoneyInLeetcodeBank.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CalculateMoneyInLeetcodeBank.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CatAndMouse.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CatAndMouse.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CatAndMouse.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ContainsDuplicateIi.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIi.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ContainsDuplicateIii.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIii.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CountOfMatchesInTournament.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CountOfMatchesInTournament.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CountOfMatchesInTournament.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/CountVowelsPermutation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/CountVowelsPermutation.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/CountVowelsPermutation.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/DetectSquares.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/DetectSquares.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/DetectSquares.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/EscapeALargeMaze.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/EscapeALargeMaze.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/EscapeALargeMaze.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindKPairsWithSmallestSums.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindKPairsWithSmallestSums.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindKPairsWithSmallestSums.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FourSjJUc.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FourSjJUc.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FourSjJUc.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/GrayCode.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/GrayCode.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/GrayCode.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/IncreasingTripletSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/IncreasingTripletSubsequence.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/IncreasingTripletSubsequence.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/IntegerToRoman.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/IntegerToRoman.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/IntegerToRoman.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/JFETK5.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/JFETK5.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/JFETK5.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/JumpGameIv.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/JumpGameIv.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/JumpGameIv.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LinkedListRandomNode.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LinkedListRandomNode.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LinkedListRandomNode.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LongestNiceSubstring.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LongestNiceSubstring.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LongestNiceSubstring.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MapOfHighestPeak.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MapOfHighestPeak.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MapOfHighestPeak.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumNumberOfEatenApples.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumNumberOfEatenApples.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumNumberOfEatenApples.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimumTimeDifference.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumTimeDifference.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumTimeDifference.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/NumberOfValidWordsInASentence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/NumberOfValidWordsInASentence.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/NumberOfValidWordsInASentence.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/PathWithMaximumGold.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/PathWithMaximumGold.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1219" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/PathWithMaximumGold.java" />
+              <option name="titleSlug" value="path-with-maximum-gold" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/RemovePalindromicSubsequences.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/RemovePalindromicSubsequences.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RemovePalindromicSubsequences.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseInteger.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReversePrefixOfWord.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReversePrefixOfWord.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReversePrefixOfWord.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SevenP8L0Z.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 084]含有重复元素集合的全排列 .md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 084]含有重复元素集合的全排列 .java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SlowestKey.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SlowestKey.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SlowestKey.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/StockPriceFluctuation.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/StockPriceFluctuation.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/StockPriceFluctuation.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/StoneGameIx.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/StoneGameIx.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/StoneGameIx.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TheNumberOfWeakCharactersInTheGame.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/TheNumberOfWeakCharactersInTheGame.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TheNumberOfWeakCharactersInTheGame.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ThreeSumClosest.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ThreeSumClosest.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ThreeSumClosest.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/UncommonWordsFromTwoSentences.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/UncommonWordsFromTwoSentences.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/UncommonWordsFromTwoSentences.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/VerticalOrderTraversalOfABinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/VerticalOrderTraversalOfABinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com987" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/VerticalOrderTraversalOfABinaryTree.java" />
+              <option name="titleSlug" value="vertical-order-traversal-of-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/VvJkup.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/VvJkup.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/VvJkup.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/WGki4K.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/WGki4K.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/WGki4K.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Ygoe9J.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 081]允许重复选择元素的组合.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ZigzagConversion.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ZigzagConversion.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ZigzagConversion.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 003]前 n 个数字二进制中 1 的个数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 003]前 n 个数字二进制中 1 的个数.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 003]前 n 个数字二进制中 1 的个数.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 004]只出现一次的数字 .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/WGki4K.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/WGki4K.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 007]数组中和为 0 的三个数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 007]数组中和为 0 的三个数.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 007]数组中和为 0 的三个数.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 081]允许重复选择元素的组合.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 082]含有重复元素集合的组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FourSjJUc.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FourSjJUc.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 083]没有重复元素集合的全排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/VvJkup.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/VvJkup.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 084]含有重复元素集合的全排列 .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 084]含有重复元素集合的全排列 .md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 084]含有重复元素集合的全排列 .java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 085]生成匹配的括号.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 085]生成匹配的括号.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 085]生成匹配的括号.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/允许重复选择元素的组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[剑指 Offer II 081]允许重复选择元素的组合.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[剑指 Offer II 081]允许重复选择元素的组合.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/只出现一次的数字 .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/WGki4K.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/WGki4K.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/含有重复元素集合的组合.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FourSjJUc.md" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FourSjJUc.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
