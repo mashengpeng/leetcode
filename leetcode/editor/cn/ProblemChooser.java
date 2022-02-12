@@ -1,6 +1,9 @@
 package editor.cn;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Random;
 
 public class ProblemChooser {
 
@@ -267,13 +270,18 @@ public class ProblemChooser {
         stars5.addAll(set);
 
     }
-
+    static {
+        stars5.remove(Integer.valueOf(82));
+        stars5.remove(Integer.valueOf(367));
+        stars5.remove(Integer.valueOf(162));
+    }
     public static void main(String[] args) {
         Random r = new Random();
         int index = r.nextInt(stars5.size());
         System.out.println(stars5.get(index));
 
     }
+
 
 
 }

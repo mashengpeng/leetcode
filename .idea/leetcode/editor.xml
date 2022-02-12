@@ -183,7 +183,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumNumberOfEatenApples.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1705" />
+              <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumNumberOfEatenApples.java" />
+              <option name="titleSlug" value="maximum-number-of-eaten-apples" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -192,6 +195,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimumTimeDifference.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimumTimeDifference.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/NumberOfEnclaves.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/NumberOfEnclaves.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1020" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/NumberOfEnclaves.java" />
+              <option name="titleSlug" value="number-of-enclaves" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -211,6 +225,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/PathWithMaximumGold.java" />
               <option name="titleSlug" value="path-with-maximum-gold" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedListIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com82" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-list-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -291,6 +316,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/UncommonWordsFromTwoSentences.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/UncommonWordsFromTwoSentences.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ValidPerfectSquare.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ValidPerfectSquare.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com367" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ValidPerfectSquare.java" />
+              <option name="titleSlug" value="valid-perfect-square" />
             </LeetcodeEditor>
           </value>
         </entry>
