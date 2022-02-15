@@ -274,6 +274,10 @@ public class ProblemChooser {
         stars5.remove(Integer.valueOf(82));
         stars5.remove(Integer.valueOf(367));
         stars5.remove(Integer.valueOf(162));
+        stars5.remove(Integer.valueOf(1705));
+        stars5.remove(Integer.valueOf(1614));
+        stars5.remove(Integer.valueOf(28));
+        stars5.remove(Integer.valueOf(146));
     }
     public static void main(String[] args) {
         Random r = new Random();
