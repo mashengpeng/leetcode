@@ -155,6 +155,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LatestTimeByReplacingHiddenDigits.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LatestTimeByReplacingHiddenDigits.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1736" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LatestTimeByReplacingHiddenDigits.java" />
+              <option name="titleSlug" value="latest-time-by-replacing-hidden-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LinkedListRandomNode.java">
           <value>
             <LeetcodeEditor>
@@ -190,6 +201,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumLengthOfAConcatenatedStringWithUniqueCharacters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumLengthOfAConcatenatedStringWithUniqueCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1239" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumLengthOfAConcatenatedStringWithUniqueCharacters.java" />
+              <option name="titleSlug" value="maximum-length-of-a-concatenated-string-with-unique-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumNestingDepthOfTheParentheses.java">
           <value>
             <LeetcodeEditor>
@@ -209,6 +231,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumNumberOfEatenApples.java" />
               <option name="titleSlug" value="maximum-number-of-eaten-apples" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MinimizeMaximumPairSumInArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MinimizeMaximumPairSumInArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1877" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MinimizeMaximumPairSumInArray.java" />
+              <option name="titleSlug" value="minimize-maximum-pair-sum-in-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -282,6 +315,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReversePrefixOfWord.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReversePrefixOfWord.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SerializeAndDeserializeBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SerializeAndDeserializeBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com297" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SerializeAndDeserializeBinaryTree.java" />
+              <option name="titleSlug" value="serialize-and-deserialize-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>

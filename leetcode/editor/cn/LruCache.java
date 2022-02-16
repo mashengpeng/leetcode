@@ -5,7 +5,7 @@ import java.util.*;
 
 public class LruCache{
     public static void main(String[] args) {
-        new LruCache()
+        new LruCache();
     }
     
     
