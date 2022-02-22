@@ -123,6 +123,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ImplementQueueUsingStacks.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ImplementQueueUsingStacks.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com232" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ImplementQueueUsingStacks.java" />
+              <option name="titleSlug" value="implement-queue-using-stacks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/IncreasingTripletSubsequence.java">
           <value>
             <LeetcodeEditor>
@@ -152,6 +163,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/JumpGameIv.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/JumpGameIv.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LargestNumberAtLeastTwiceOfOthers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LargestNumberAtLeastTwiceOfOthers.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com747" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LargestNumberAtLeastTwiceOfOthers.java" />
+              <option name="titleSlug" value="largest-number-at-least-twice-of-others" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -198,6 +220,28 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MapOfHighestPeak.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MapOfHighestPeak.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumAverageSubarrayI.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumAverageSubarrayI.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com643" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumAverageSubarrayI.java" />
+              <option name="titleSlug" value="maximum-average-subarray-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumElementAfterDecreasingAndRearranging.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumElementAfterDecreasingAndRearranging.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1846" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumElementAfterDecreasingAndRearranging.java" />
+              <option name="titleSlug" value="maximum-element-after-decreasing-and-rearranging" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -324,6 +368,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1576" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java" />
+              <option name="titleSlug" value="replace-all-s-to-avoid-consecutive-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java">
           <value>
             <LeetcodeEditor>
@@ -359,6 +414,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ShuffleAnArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ShuffleAnArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com384" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ShuffleAnArray.java" />
+              <option name="titleSlug" value="shuffle-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/SlowestKey.java">
           <value>
             <LeetcodeEditor>
@@ -383,6 +449,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SumOfAllOddLengthSubarrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SumOfAllOddLengthSubarrays.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1588" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SumOfAllOddLengthSubarrays.java" />
+              <option name="titleSlug" value="sum-of-all-odd-length-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/SuperPow.java">
           <value>
             <LeetcodeEditor>
@@ -391,6 +468,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SuperPow.java" />
               <option name="titleSlug" value="super-pow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/TeemoAttacking.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/TeemoAttacking.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com495" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/TeemoAttacking.java" />
+              <option name="titleSlug" value="teemo-attacking" />
             </LeetcodeEditor>
           </value>
         </entry>

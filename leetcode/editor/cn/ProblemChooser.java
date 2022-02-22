@@ -293,11 +293,27 @@ public class ProblemChooser {
         stars5.remove(Integer.valueOf(382));
         stars5.remove(Integer.valueOf(1436));
         stars5.remove(Integer.valueOf(33));
+        stars5.remove(Integer.valueOf(372));
+        stars5.remove(Integer.valueOf(11));
+        stars5.remove(Integer.valueOf(384));
+        stars5.remove(Integer.valueOf(1219));
+        stars5.remove(Integer.valueOf(1846));
+        stars5.remove(Integer.valueOf(1588));
+        stars5.remove(Integer.valueOf(884));
+        stars5.remove(Integer.valueOf(35));
+        stars5.remove(Integer.valueOf(747));
+        stars5.remove(Integer.valueOf(1));
+        stars5.remove(Integer.valueOf(1576));
+        stars5.remove(Integer.valueOf(1220));
+        stars5.remove(Integer.valueOf(495));
+        stars5.remove(Integer.valueOf(232));
+        stars5.remove(Integer.valueOf(643));
 
     }
     public static void main(String[] args) {
         Random r = new Random();
         int index = r.nextInt(stars5.size());
+        System.out.println(stars5.size());
         System.out.println(stars5.get(index));
 
     }
