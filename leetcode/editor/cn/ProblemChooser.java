@@ -1,6 +1,9 @@
 package editor.cn;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Random;
 
 public class ProblemChooser {
 
@@ -308,6 +311,9 @@ public class ProblemChooser {
         stars5.remove(Integer.valueOf(2059));
         stars5.remove(Integer.valueOf(3));
         stars5.remove(Integer.valueOf(304));
+        stars5.remove(Integer.valueOf(859));
+        stars5.remove(Integer.valueOf(787));
+        stars5.remove(Integer.valueOf(383));
 
 
     }
@@ -315,9 +321,6 @@ public class ProblemChooser {
         Random r = new Random();
         int index = r.nextInt(stars5.size());
         System.out.println(stars5.size());
-        System.out.println(stars5.get(index));
-
-
 
     }
 
