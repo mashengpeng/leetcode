@@ -65,6 +65,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ConsecutiveCharacters.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ConsecutiveCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1446" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ConsecutiveCharacters.java" />
+              <option name="titleSlug" value="consecutive-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/ContainsDuplicateIi.java">
           <value>
             <LeetcodeEditor>
@@ -118,6 +129,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindKPairsWithSmallestSums.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindKPairsWithSmallestSums.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/FindPivotIndex.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/FindPivotIndex.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com724" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/FindPivotIndex.java" />
+              <option name="titleSlug" value="find-pivot-index" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -221,6 +243,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/LfuCache.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/LfuCache.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com460" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/LfuCache.java" />
+              <option name="titleSlug" value="lfu-cache" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/LinkedListRandomNode.java">
           <value>
             <LeetcodeEditor>
@@ -275,6 +308,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumElementAfterDecreasingAndRearranging.java" />
               <option name="titleSlug" value="maximum-element-after-decreasing-and-rearranging" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/MaximumIceCreamBars.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/MaximumIceCreamBars.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1833" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/MaximumIceCreamBars.java" />
+              <option name="titleSlug" value="maximum-ice-cream-bars" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -382,6 +426,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/PlatesBetweenCandles.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/PlatesBetweenCandles.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2055" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/PlatesBetweenCandles.java" />
+              <option name="titleSlug" value="plates-between-candles" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/PrintInOrder.java">
           <value>
             <LeetcodeEditor>
@@ -483,6 +538,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseInteger.md" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseInteger.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/ReverseNodesInKGroup.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/ReverseNodesInKGroup.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com25" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/ReverseNodesInKGroup.java" />
+              <option name="titleSlug" value="reverse-nodes-in-k-group" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -589,6 +655,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SuperPow.java" />
               <option name="titleSlug" value="super-pow" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/SwapNodesInPairs.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/SwapNodesInPairs.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com24" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/SwapNodesInPairs.java" />
+              <option name="titleSlug" value="swap-nodes-in-pairs" />
             </LeetcodeEditor>
           </value>
         </entry>
