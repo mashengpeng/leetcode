@@ -1,5 +1,6 @@
 package editor.cn;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -321,14 +322,20 @@ public class ProblemChooser {
         stars5.remove(Integer.valueOf(430));
         stars5.remove(Integer.valueOf(1446));
         stars5.remove(Integer.valueOf(460));
+        stars5.remove(Integer.valueOf(600));
+        stars5.remove(Integer.valueOf(911));
+        stars5.remove(Integer.valueOf(1713));
 
 
     }
     public static void main(String[] args) {
         Random r = new Random();
         int index = r.nextInt(stars5.size());
+        System.out.println("剩余题目数：");
         System.out.println(stars5.size());
+        System.out.println("当前题目：");
         System.out.println(stars5.get(index));
+        System.out.println(LocalDateTime.now());
 
 
 
