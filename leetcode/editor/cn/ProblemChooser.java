@@ -1,5 +1,6 @@
 package editor.cn;
 
+import java.nio.ByteOrder;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -325,6 +326,7 @@ public class ProblemChooser {
         stars5.remove(Integer.valueOf(600));
         stars5.remove(Integer.valueOf(911));
         stars5.remove(Integer.valueOf(1713));
+        stars5.remove(Integer.valueOf(1609));
 
 
     }
@@ -339,15 +341,11 @@ public class ProblemChooser {
 
 
 
-
+        //new ArrayList<Integer>(new int[]{1,2,3,4,5});
+        //System.out.println("0123".substring(4).length());
+        System.out.println(ByteOrder.nativeOrder() == ByteOrder.BIG_ENDIAN);
     }
 
 
-
-
-
-
-
-
-
 }
+
