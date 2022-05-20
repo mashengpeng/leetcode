@@ -1,6 +1,8 @@
 package editor.cn;
- 
-import java.util.*; 
+
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 
 public class LruCache{
@@ -16,12 +18,32 @@ public class LruCache{
 
     }
 //leetcode submit region begin(Prohibit modification and deletion)
-class LRUCache {
+class LRUCache extends LinkedHashMap<Integer, Integer> {
+    int capacity;
+    public LRUCache(int capacity) {
+        super(16, 0.75f, true);
+        this.capacity = capacity;
+    }
+
+    @Override
+    public Integer get(Object key) {
+        return getOrDefault(key, -1);
+    }
+
+
+
+    @Override
+    protected boolean removeEldestEntry(Map.Entry<Integer, Integer> eldest) {
+        return size() > capacity;
+    }
+}
+
+class LRUCache1 {
     HashMap<Integer, ListNode> map;
     int capacity;
     int size;
     MyList list;
-    public LRUCache(int capacity) {
+    public LRUCache1(int capacity) {
         this.capacity = capacity;
         map = new HashMap<>();
         list = new MyList();

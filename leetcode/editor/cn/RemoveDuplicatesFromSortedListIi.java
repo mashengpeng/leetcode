@@ -30,21 +30,24 @@ class Solution {
         ListNode dummy = new ListNode();
         dummy.next = head;
 
-        ListNode tail = dummy;
+        ListNode prev = dummy;
+        ListNode cur = head;
 
-        while(head != null){
-            if(head.next == null || head.val != head.next.val){
-                tail.next = head;
-                tail = head;
+        while(cur != null){
+            ListNode next = cur;
+            while(next != null && next.val == cur.val){
+                next = next.next;
             }
-            while(head.next != null && head.val == head.next.val){
-                head = head.next;
+
+            if(cur.next != next){
+                prev.next = next;
+                cur = next;
+            }else{
+                prev = cur;
+                cur = next;
             }
-            head = head.next;
         }
-        tail.next = null;
         return dummy.next;
-
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

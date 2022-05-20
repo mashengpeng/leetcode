@@ -26,16 +26,16 @@ class MyQueue {
     public int pop() {
         if(out.isEmpty()){
             while(!in.isEmpty()){
-                out.addLast(in.pollLast());
+                out.addLast(in.removeLast());
             }
         }
-        return out.pollLast();
+        return out.removeLast();
     }
     
     public int peek() {
         if(out.isEmpty()){
             while(!in.isEmpty()){
-                out.addLast(in.pollLast());
+                out.addLast(in.removeLast());
             }
         }
         return out.getLast();

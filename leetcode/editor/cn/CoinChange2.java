@@ -10,7 +10,21 @@ public class CoinChange2{
     }
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+
     public int change(int amount, int[] coins) {
+        int[] f = new int[amount+1];
+        int n = coins.length;
+        Arrays.fill(f, 0);
+        f[0] = 1;
+        for (int i = 0; i < n; i++) {
+            int coin = coins[i];
+            for (int j = coin; j <= amount; j++) {
+                f[j] = f[j] + f[j - coin];
+            }
+        }
+        return f[amount];
+    }
+    public int change2(int amount, int[] coins) {
         int[] dp = new int[amount+1];
 
         Arrays.fill(dp, 0);

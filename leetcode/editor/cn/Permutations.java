@@ -9,24 +9,33 @@ public class Permutations{
     }
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> a = new ArrayList<>();
-        List<List<Integer>> b = new ArrayList<>();
 
-        a.add(new ArrayList<>());
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < a.size(); j++) {
-                List<Integer> list = a.get(j);
-                for (int k = 0; k <= list.size(); k++) {
-                    List<Integer> tmp = new ArrayList<>(list);
-                    tmp.add(k, nums[i]);
-                    b.add(tmp);
-                }
-            }
-            a = b;
-            b = new ArrayList<>();
+    List<List<Integer>> ans = new ArrayList<>();
+    List<Integer> tmp = new ArrayList<>();
+    boolean[] vis;
+    public List<List<Integer>> permute(int[] nums) {
+        vis = new boolean[nums.length];
+        Arrays.fill(vis, false);
+        dfs(nums);
+        return ans;
+    }
+
+    void dfs(int[] nums){
+        if(tmp.size() == nums.length){
+            ans.add(new ArrayList<>(tmp));
+            return;
         }
-        return a;
+
+        for (int i = 0; i < nums.length; i++) {
+            if(vis[i]){
+                continue;
+            }
+            vis[i] = true;
+            tmp.add(nums[i]);
+            dfs(nums);
+            tmp.remove(tmp.size()-1);
+            vis[i] = false;
+        }
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

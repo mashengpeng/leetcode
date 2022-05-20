@@ -9,11 +9,30 @@ import java.util.*;
 public class CoinChange{
     public static void main(String[] args) {
         Solution solution = new CoinChange().new Solution();
-        solution.coinChange(new int[]{1}, 0);
+        System.out.println(solution.coinChange(new int[]{186, 419, 83, 408}, 6249));
     }
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+
     public int coinChange(int[] coins, int amount) {
+
+        int n = coins.length;
+        int INF = 0x3f3f3f3f;
+        int[] f = new int[amount + 1];
+
+        //f[i][j]代表用到第i个硬币时，凑成j元的最少数量；
+
+        Arrays.fill(f, INF);
+        f[0] = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = coins[i]; j <= amount; j++) {
+                f[j] = Math.min(f[j - coins[i]] + 1, f[j]);
+            }
+        }
+        return f[amount] == INF ? -1 : f[amount];
+    }
+
+    public int coinChange2(int[] coins, int amount) {
         int[] dp = new int[amount+1];
         int max = amount + 1;
         Arrays.fill(dp, max);
